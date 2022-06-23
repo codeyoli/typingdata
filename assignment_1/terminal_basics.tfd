@@ -5,7 +5,7 @@ pwd
 pwd
 pwd
 
-# shows contents of current folder
+# shows contents of the current folder
 ls
 ls
 ls
@@ -19,13 +19,13 @@ ls -l
 ls -l
 ls -l
 
-# shows all contents of current folder with list mode
+# shows all contents of a current folder with list mode
 ls -al
 ls -al
 ls -al
 ls -al
 ls -al
-#
+
 # changes the current working folder to a specified folder
 cd src/java
 cd src/java
@@ -38,7 +38,7 @@ cd ~
 cd ~
 cd ~
 
-# go back to the preveous folder you were on
+# go back to the previous folder you were on
 cd -
 cd -
 cd -
@@ -70,7 +70,7 @@ rmdir mars
 rmdir mars
 rmdir mars
 
-# create an empty file with specified extention
+# create an empty file with specified extension
 touch Program.java
 touch CodingPractice.pdf
 touch data.json
