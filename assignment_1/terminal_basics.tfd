@@ -70,7 +70,7 @@ rmdir mars
 rmdir mars
 rmdir mars
 
-# create an empty file with specified extension
+# create an empty file with a specified extension
 touch Program.java
 touch CodingPractice.pdf
 touch data.json
